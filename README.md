@@ -16,7 +16,7 @@ git flow init
 ```
 git flow feature start newbranch
 
-git push origin newbranch
+git push origin feature/newbranch
 ```
 
 ### Start collaborating
